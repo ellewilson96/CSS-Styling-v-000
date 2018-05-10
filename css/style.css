@@ -1,4 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family-Elsie_Swash+Caps:400,900);
+@import url(http://fonts.googleapis.com/css?family=Elsie_Swash+Caps:400,900);
+@import url(http://fonts.googleapis.com/css?family=Clicker+Script);
 
 /* This is a comment! */
 
@@ -22,7 +23,7 @@ figcation {
   font-size: 0.75em;
   line-height: 1.5em;
   font-family: Georgia, "New Times Roman", serif;*/
-  font: normal 0.75em/1.5em Georgia, "New Times Roman", serif;
+  font: normal 0.75em/1.5em "Elsie Swash Caps", "New Times Roman", serif;
   color: #777;
   text-align: right;
 }
